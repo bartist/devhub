@@ -435,9 +435,6 @@
             <resource>
                 <directory>src/main/resources</directory>
             </resource>
-            <resource>
-                <directory>target/metamodel</directory>
-            </resource>
         </resources>
         <plugins>
             <plugin>
